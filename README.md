@@ -47,4 +47,4 @@ This repository is the starter code for _all_ Udacity students. Therefore, we mo
 -   If earned goes to three then the popup will appear .
 -   The popup shows like `well Done` .
 -   After completion of game `Replay` will appear. If we click on the replay button then game will restart.
--   Finally game completed.
+-   Finally game successfully completed.
