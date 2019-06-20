@@ -112,7 +112,6 @@
          this.sprite = 'images/char-pink-girl.png';
        }
        default:
-
    }
  }
  // This listens for key presses and sends the keys to your
